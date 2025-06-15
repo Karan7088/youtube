@@ -36,7 +36,15 @@ To help content creators and marketers understand:
 ## 📂 Files Included
 
 - [`YouTube_Dashboard.pbix`](https://app.powerbi.com/groups/me/reports/38e0fdf3-f975-4ec4-9e84-dcca8b6e1035/0b5f21ae21451042ac4b?experience=power-bi&bookmarkGuid=9c50f8a44d0da3764d2b) – Power BI file with the interactive dashboard
-- `youtube-dashboard-preview.png` – Dashboard screenshot preview
+- ## 🌐 YouTube API Analysis with SerpApi
+
+This version of the project uses [SerpApi](https://serpapi.com/youtube-search-api) to programmatically fetch YouTube search results, video metadata, and channel insights.
+
+### 🔍 Features
+- Python-based automated data collection using SerpApi
+- Extracted real-time data including views, likes, publish date, and ranking
+- Power BI dashboard for trend visualization and performance metrics
+
 
 ---
 
